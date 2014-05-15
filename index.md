@@ -1,7 +1,7 @@
 ---
 layout: page
 title: hipsteR
-tagline: re-educating people who learned R before it was cool.
+tagline: re-educating people who learned R before it was cool
 ---
 
 I was an early adopter of [R](http://www.r-project.org), having first
