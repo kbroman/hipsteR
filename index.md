@@ -77,8 +77,42 @@ and perhaps read the
 Also look at [Rcpp](http://adv-r.had.co.nz/Rcpp.html), a simpler way
 to call C/C++ functions from R. Read the [Rcpp book](http://www.amazon.com/exec/obidos/ASIN/1461468671/7210-20).
 
+### Dataframe stuff
 
+`by`, `merge`, `with`
 
+### Various
+
+I just searched through the `NEWS` files (mentioned above) and
+wrote down functions that were realatively new to me.
+
+`which.min`, `which.max`
+
+`stopifnot`
+
+`strwrap`
+
+`unsplit`
+
+`rowSums`, `colSums`, `rowMeans`, `colMeans`
+
+`slice.index`
+
+`runmed`
+
+`addmargins`
+
+`head`, `tail`
+
+`arrayInd`
+
+`droplevels`
+
+`saveRDS`, `readRDS`
+
+`paste0`
+
+`anyNA`
 
 ---
 
