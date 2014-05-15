@@ -11,7 +11,7 @@ functions (like `replicate`, which was new in _2002_).
 
 This is a tutorial for people like me.
 
-### Step 1: switch to knitr
+### Switch to knitr
 
 If you use [Sweave](http://leisch.userweb.mwn.de/Sweave/), it's time
 you switched to [knitr](http://yihui.name/knitr/). You'll find that
@@ -25,7 +25,7 @@ or
 for writing simple reports. The markup is much simpler than LaTeX, and
 you don't have to worry about page breaks.
 
-### Step 2: Learn [Hadley Wickham](http://had.co.nz/)'s packages
+### Learn [Hadley Wickham](http://had.co.nz/)'s packages
 
 Start with [dplyr](https://github.com/hadley/dplyr),
 [reshape2](https://github.com/hadley/reshape), and
@@ -41,7 +41,7 @@ Also [lubridate](https://github.com/hadley/lubridate) and
 Also, read his [Advanced R programming](http://adv-r.had.co.nz/) book.
 
 
-### Step 3: You _can_ put underscores in names
+### You _can_ put underscores in names
 
 It used to be that `_` was a shortcut for `<-`. (That was always a bad
 idea. And it led me to use dots in function names, like
