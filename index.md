@@ -62,6 +62,7 @@ tools, like [shiny](http://www.rstudio.com/shiny/) and
 [CRAN](http://cran.r-project.org) has over 6000 packages, with lots of
 great stuff like
 [data.table](http://cran.r-project.org/web/packages/data.table), 
+[RSQLite](http://cran.r-project.org/web/packages/RSQLite),
 [XML](http://cran.r-project.org/web/packages/XML),
 [rCharts](http://rcharts.io/),
 [animation](http://yihui.name/animation/), and
