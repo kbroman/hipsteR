@@ -53,6 +53,32 @@ Then they started allowing `=` in place of `<-`.
 And then they got rid of `_` as a shortcut for `<-`.  Good idea, and
 now we can have functions named like `calc_genoprob`.
 
+### Read about new features
+
+Read about new features in R
+[here](http://stat.ethz.ch/R-manual/R-devel/NEWS).
+
+Also look at
+[what was new in older versions](http://cran.r-project.org/src/base/NEWS.2)
+and [even older versions](http://cran.r-project.org/src/base/NEWS.1).
+
+### New apply-type functions
+
+You probably know about `apply`, `lapply`, `sapply`, and `tapply`. But
+did you know about `vapply` and `mapply`? And how about `replicate`?
+
+### Parallel and Rcpp
+
+Look at the
+[parallel package](http://stat.ethz.ch/R-manual/R-devel/library/parallel/doc/parallel.pdf),
+and perhaps read the
+[Parallel R book](http://www.amazon.com/exec/obidos/ASIN/1449309925/7210-20).
+
+Also look at [Rcpp](http://adv-r.had.co.nz/Rcpp.html), a simpler way
+to call C/C++ functions from R. Read the [Rcpp book](http://www.amazon.com/exec/obidos/ASIN/1461468671/7210-20).
+
+
+
 
 ---
 
