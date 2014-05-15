@@ -62,8 +62,8 @@ Personally, I stick with [Emacs](http://www.gnu.org/software/emacs/) +
 [ESS](http://ess.r-project.org/), because I'm writing code in multiple
 languages (not just R).
 
-But I use it for teaching, and if I were solely writing R, I'd
-probably switch. 
+But I use it for teaching: for demonstrations, and I have the
+students use it; it's the best environment for learning R.
 
 
 ### Read about new features
