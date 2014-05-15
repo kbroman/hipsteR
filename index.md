@@ -7,7 +7,7 @@ tagline: re-educating people who learned R before it was cool
 I was an early adopter of [R](http://www.r-project.org), having first
 learned S (yay!) and then S-plus (yuck!). But at times my knowledge of
 R seems stuck in 2001. I keep finding out about &ldquo;new&rdquo; R
-functions (like `replicate`, which was new in _2002_).
+functions (like `replicate`, which was new in _2003_).
 
 This is a tutorial for people like me.
 
