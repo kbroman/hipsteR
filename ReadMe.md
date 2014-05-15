@@ -1,5 +1,4 @@
-## hipsteR
-### re-educating people who learned R before it was cool
+### hipsteR: re-educating people who learned R before it was cool
 
 I was an early adopter of [R](http://www.r-project.org), having first
 learned S (yay!) and then S-plus (yuck!). But at times my knowledge of
