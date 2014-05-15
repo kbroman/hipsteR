@@ -127,6 +127,13 @@ wrote down some of the functions that were new since 2002.
 
 `anyNA`
 
+`rowsum`
+
+`aggregate`
+
+`stack`, `reshape`, `relist`
+
+
 ---
 
 The source for this tutorial is
