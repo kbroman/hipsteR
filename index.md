@@ -41,18 +41,6 @@ Also [lubridate](https://github.com/hadley/lubridate) and
 Also, read his [Advanced R programming](http://adv-r.had.co.nz/) book.
 
 
-### You _can_ put underscores in names
-
-It used to be that `_` was a shortcut for `<-`. (That was always a bad
-idea. And it led me to use dots in function names, like
-[`calc.genoprob`](https://github.com/kbroman/qtl/blob/master/R/calc.genoprob.R),
-which has been problematic due to the S3 class system.)
-
-Then they started allowing `=` in place of `<-`.
-
-And then they got rid of `_` as a shortcut for `<-`.  Good idea, and
-now we can have functions named like `calc_genoprob`.
-
 ### Consider RStudio
 
 If you're still using the R GUI (for Windows or Mac), you should
@@ -65,6 +53,47 @@ languages (not just R).
 But I use it for teaching: for demonstrations, and I have the
 students use it; it's the best environment for learning R.
 
+[RStudio](http://rstudio.com), the company, produces a number of other great
+tools, like [shiny](http://www.rstudio.com/shiny/) and
+[ggvis](https://github.com/rstudio/ggvis).
+
+### CRAN is huge, and there's also GitHub
+
+[CRAN](http://cran.r-project.org) has over 6000 packages, with lots of
+great stuff like
+[data.table](http://cran.r-project.org/web/packages/data.table), 
+[XML](http://cran.r-project.org/web/packages/XML),
+[rCharts](http://rcharts.io/),
+[animation](http://yihui.name/animation/), and
+[slidify](http://slidify.org/).
+
+And there are even more packages that live on [GitHub](http://github.com) (solely, or in
+addition to CRAN), and with the `install_github()` function in the
+[devtools](https://github.com/hadley/devtools) package, you can skip
+CRAN and install packages straight from GitHub. devtools also has an
+`install_bitbucket()` for installing from
+[BitBucket](http://bitbucket.org).
+
+I'd better mention [Bioconductor](http://bioconductor.org/); oodles of
+bioinformatics/genomics-related packages live there rather than CRAN.
+
+And while I'm talking packages, I should mention
+[ROpenSci](http://ropensci.org/), an effort to create packages to
+easily accessing all kinds of data repositories from R. Take a look at
+[their list](http://ropensci.org/packages/). 
+
+
+### You _can_ put underscores in names
+
+It used to be that `_` was a shortcut for `<-`. (That was always a bad
+idea. And it led me to use dots in function names, like
+[`calc.genoprob`](https://github.com/kbroman/qtl/blob/master/R/calc.genoprob.R),
+which has been problematic due to the S3 class system.)
+
+Then they started allowing `=` in place of `<-`.
+
+And then they got rid of `_` as a shortcut for `<-`.  Good idea, and
+now we can have functions named like `calc_genoprob`.
 
 ### Read about new features
 
@@ -99,6 +128,8 @@ to call C/C++ functions from R. Read the [Rcpp book](http://www.amazon.com/exec/
 I just searched through the `NEWS` files (mentioned above) and
 wrote down some of the functions that were new since 2002.
 Some of these are even older than that.
+
+`Vectorize`
 
 `which.min`, `which.max`
 
