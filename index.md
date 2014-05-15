@@ -9,7 +9,7 @@ learned S (yay!) and then S-plus (yuck!). But at times my knowledge of
 R seems stuck in 2001. I keep finding out about &ldquo;new&rdquo; R
 functions (like `replicate`, which was new in _2003_).
 
-This is a tutorial for people like me.
+This is a tutorial for people like me, or people who were taught by people like me.
 
 ### Switch to knitr
 
