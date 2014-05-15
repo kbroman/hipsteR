@@ -84,7 +84,7 @@ to call C/C++ functions from R. Read the [Rcpp book](http://www.amazon.com/exec/
 ### Various
 
 I just searched through the `NEWS` files (mentioned above) and
-wrote down functions that were realatively new to me.
+wrote down some of the functions that were new since 2002.
 
 `which.min`, `which.max`
 
