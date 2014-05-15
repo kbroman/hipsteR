@@ -53,6 +53,19 @@ Then they started allowing `=` in place of `<-`.
 And then they got rid of `_` as a shortcut for `<-`.  Good idea, and
 now we can have functions named like `calc_genoprob`.
 
+### Consider RStudio
+
+If you're still using the R GUI (for Windows or Mac), you should
+switch to [RStudio](http://www.rstudio.com/ide/download/desktop).
+
+Personally, I stick with [Emacs](http://www.gnu.org/software/emacs/) +
+[ESS](http://ess.r-project.org/), because I'm writing code in multiple
+languages (not just R).
+
+But I use it for teaching, and if I were solely writing R, I'd
+probably switch. 
+
+
 ### Read about new features
 
 Read about new features in R
