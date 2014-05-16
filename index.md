@@ -80,7 +80,7 @@ bioinformatics/genomics-related packages live there rather than CRAN.
 
 And while I'm talking packages, I should mention
 [ROpenSci](http://ropensci.org/), an effort to create packages to
-easily accessing all kinds of data repositories from R. Take a look at
+access all kinds of data repositories from R. Take a look at
 [their list](http://ropensci.org/packages/). 
 
 
