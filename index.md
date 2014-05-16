@@ -50,7 +50,7 @@ Personally, I stick with [Emacs](http://www.gnu.org/software/emacs/) +
 [ESS](http://ess.r-project.org/), because I'm writing code in multiple
 languages (not just R).
 
-But I use it for teaching: for demonstrations, and I have the
+But I use RStudio for teaching: for demonstrations, and I have the
 students use it; it's the best environment for learning R.
 
 [RStudio](http://rstudio.com), the company, produces a number of other great
