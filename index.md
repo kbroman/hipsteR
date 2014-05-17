@@ -45,6 +45,7 @@ Also, read his [Advanced R programming](http://adv-r.had.co.nz/) book.
 
 If you're still using the R GUI (for Windows or Mac), you should
 switch to [RStudio](http://www.rstudio.com/ide/download/desktop).
+Everything about it is better.
 
 Personally, I stick with [Emacs](http://www.gnu.org/software/emacs/) +
 [ESS](http://ess.r-project.org/), because I'm writing code in multiple
@@ -52,6 +53,14 @@ languages (not just R).
 
 But I use RStudio for teaching: for demonstrations, and I have the
 students use it; it's the best environment for learning R.
+
+And note that RStudio makes it easy to
+[use knitr with Markdown](http://www.rstudio.com/ide/docs/authoring/using_markdown),
+and to
+[develop R Packages](http://www.rstudio.com/ide/docs/packages/overview).
+And RStudio also has some
+[nice debugging features](http://www.rstudio.com/ide/docs/debugging/overview),
+like the ability to set breakpoints.
 
 [RStudio](http://rstudio.com), the company, produces a number of other great
 tools, like [shiny](http://www.rstudio.com/shiny/) and
