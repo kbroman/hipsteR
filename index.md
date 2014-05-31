@@ -137,6 +137,14 @@ to call C/C++ functions from R. Read the [Rcpp book](http://www.amazon.com/exec/
 I searched through the `NEWS` files (mentioned above) and
 wrote down some of the functions that were new since 2002.
 
+(Note that I have little experience with these, and some are
+not entirely recommended. For example,
+[rickyars](https://github.com/rickyars)
+[noted](https://github.com/kbroman/hipsteR/issues/4) that `inner_join` and
+`left_join` in [dplyr](https://github.com/hadley/dplyr) can be 10&times;
+faster than `merge`. [Ben Bolker](http://en.gravatar.com/bbolker) [recommends](http://kbroman.wordpress.com/2014/05/15/hipster-re-educating-people-who-learned-r-before-it-was-cool/#comment-3518) the `plyr::r*ply` functions
+over `replicate`, as you get to define the return structure.)
+
 `Vectorize`
 
 `which.min`, `which.max`
