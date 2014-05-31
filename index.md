@@ -49,7 +49,9 @@ Everything about it is better.
 
 Personally, I stick with [Emacs](http://www.gnu.org/software/emacs/) +
 [ESS](http://ess.r-project.org/), because I'm writing code in multiple
-languages (not just R).
+languages (not just R). (Another IDE option for R that many recommend:
+[Eclipse](http://www.eclipse.org/eclipse/) with
+[StatET](http://www.walware.de/goto/statet).)
 
 But I use RStudio for teaching: for demonstrations, and I have the
 students use it; it's the best environment for learning R.
