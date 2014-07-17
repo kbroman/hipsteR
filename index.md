@@ -19,9 +19,9 @@ the transition is easy.
 
 A number of Sweave annoyances have been eliminated, but most
 importantly you can use knitr
-[with R Markdown](http://kbroman.github.io/knitr_knutshell/pages/Rmarkdown.html)
+[with R Markdown](http://kbroman.org/knitr_knutshell/pages/Rmarkdown.html)
 or
-[with AsciiDoc](http://kbroman.github.io/knitr_knutshell/pages/asciidoc.html)
+[with AsciiDoc](http://kbroman.org/knitr_knutshell/pages/asciidoc.html)
 for writing simple reports. The markup is much simpler than LaTeX, and
 you don't have to worry about page breaks.
 
@@ -192,6 +192,6 @@ The source for this tutorial is
 I would be glad for suggestions, corrections, or additions.
 
 Also see my
-[git/github guide](http://kbroman.github.io/github_tutorial),
-[knitr in a knutshell tutorial](http://kbroman.github.io/knitr_knutshell),
-and [minimal make tutorial](http://kbroman.github.io/minimal_make).
+[git/github guide](http://kbroman.org/github_tutorial),
+[knitr in a knutshell tutorial](http://kbroman.org/knitr_knutshell),
+and [minimal make tutorial](http://kbroman.org/minimal_make).

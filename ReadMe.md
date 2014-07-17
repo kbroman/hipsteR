@@ -7,7 +7,7 @@ functions (like `replicate`, which was new in _2002_).
 
 This is a tutorial for people like me.
 
-View the thing [here](http://kbroman.github.io/hipsteR).
+View the thing [here](http://kbroman.org/hipsteR).
 
 ---
 
