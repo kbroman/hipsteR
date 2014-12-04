@@ -72,7 +72,7 @@ tools, like [shiny](http://www.rstudio.com/shiny/) and
 
 [CRAN](http://cran.r-project.org) has over 6000 packages, with lots of
 great stuff like
-[data.table](http://cran.r-project.org/web/packages/data.table), 
+[data.table](http://cran.r-project.org/web/packages/data.table),
 [magrittr](http://github.com/smbache/magrittr),
 [RSQLite](http://cran.r-project.org/web/packages/RSQLite),
 [XML](http://cran.r-project.org/web/packages/XML),
@@ -93,7 +93,7 @@ bioinformatics/genomics-related packages live there rather than CRAN.
 And while I'm talking packages, I should mention
 [ROpenSci](http://ropensci.org/), an effort to create packages to
 access all kinds of data repositories from R. Take a look at
-[their list](http://ropensci.org/packages/). 
+[their list](http://ropensci.org/packages/).
 
 
 ### You _can_ put underscores in names
@@ -194,4 +194,5 @@ I would be glad for suggestions, corrections, or additions.
 Also see my
 [git/github guide](http://kbroman.org/github_tutorial),
 [knitr in a knutshell tutorial](http://kbroman.org/knitr_knutshell),
-and [minimal make tutorial](http://kbroman.org/minimal_make).
+[minimal make tutorial](http://kbroman.org/minimal_make),
+and [initial steps towards reproducible research](http://kbroman.org/steps2rr).
