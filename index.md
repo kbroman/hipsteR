@@ -146,43 +146,47 @@ not entirely recommended. For example,
 faster than `merge`. [Ben Bolker](http://en.gravatar.com/bbolker) [recommends](http://kbroman.wordpress.com/2014/05/15/hipster-re-educating-people-who-learned-r-before-it-was-cool/#comment-3518) the `plyr::r*ply` functions
 over `replicate`, as you get to define the return structure.)
 
-`Vectorize`
+[`Vectorize`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/Vectorize.html)
 
-`which.min`, `which.max`
+[`which.min`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/which.min.html), [`which.max`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/which.min.html)
 
-`stopifnot`
+[`stopifnot`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/stopifnot.html)
 
-`strwrap`
+[`strwrap`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/strwrap.html)
 
-`unsplit`
+[`unsplit`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/split.html)
 
-`rowSums`, `colSums`, `rowMeans`, `colMeans`
+[`rowSums`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/colSums.html), [`colSums`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/colSums.html), [`rowMeans`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/colSums.html),
+[`colMeans`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/colSums.html)
 
-`slice.index`
+[`rowsum`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/rowsum.html)
 
-`runmed`
+[`slice.index`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/slice.index.html)
 
-`addmargins`
+[`runmed`](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/runmed.html)
 
-`head`, `tail`
+[`addmargins`](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/addmargins.html)
 
-`arrayInd`
+[`head`](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/head.html),
+[`tail`](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/head.html)
 
-`droplevels`
+[`arrayInd`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/which.html)
 
-`saveRDS`, `readRDS`
+[`droplevels`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/droplevels.html)
 
-`paste0`
+[`saveRDS`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/readRDS.html), [`readRDS`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/readRDS.html)
 
-`anyNA`
+[`paste0`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/paste.html)
 
-`rowsum`
+[`anyNA`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/NA.html)
 
-`aggregate`
+[`aggregate`](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/aggregate.html), [`by`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/by.html)
 
-`by`, `merge`, `with`
+[`merge`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/merge.html)
 
-`stack`, `reshape`, `relist`
+[`with`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/with.html)
+
+[`stack`](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/stack.html), [`reshape`](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/reshape.html), [`relist`](https://stat.ethz.ch/R-manual/R-devel/library/utils/html/relist.html)
 
 
 ---
