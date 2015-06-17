@@ -39,8 +39,8 @@ Also [devtools](https://github.com/hadley/devtools),
 Also [lubridate](https://github.com/hadley/lubridate) and
 [stringr](https://github.com/hadley/stringr).
 
-Also, read his [Advanced R](http://adv-r.had.co.nz/)
-and [R packages](http://r-pkgs.had.co.nz/) books.
+Also, read his two new books: [Advanced R](http://adv-r.had.co.nz/)
+and [R packages](http://r-pkgs.had.co.nz/).
 
 
 ### Consider RStudio
