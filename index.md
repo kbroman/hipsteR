@@ -113,7 +113,7 @@ now we can have functions named like `calc_genoprob`.
 ### Read about new features
 
 Read about new features in R
-[here](http://stat.ethz.ch/R-manual/R-devel/NEWS).
+[here](http://cran.r-project.org/src/base/NEWS).
 
 Also look at
 [what was new in older versions](http://cran.r-project.org/src/base/NEWS.2)
