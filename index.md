@@ -83,7 +83,7 @@ get the log (base 2) of 5.
 
 Note:
 [Jenny Bryan suggests](https://twitter.com/JennyBryan/status/748290187034169344)
-that we use the parentheses on the functions even when it's not
+that we use the parentheses on the functions even when they're not
 formally required, like this:
 
 ```r
