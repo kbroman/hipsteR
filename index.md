@@ -81,6 +81,19 @@ get the log (base 2) of 5.
 2 %>% log(5, base=.)
 ```
 
+Note:
+[Jenny Bryan suggests](https://twitter.com/JennyBryan/status/748290187034169344)
+that we use the parentheses on the functions even when it's not
+formally required, like this:
+
+```r
+library(magrittr)
+x %>% log() %>%
+    diff() %>%
+    exp() %>%
+    round(1)
+```
+
 ### Consider RStudio
 
 If you're still using the R GUI (for Windows or Mac), you should
