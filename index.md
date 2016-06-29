@@ -43,6 +43,44 @@ Also, read his two new books: [Advanced R](http://adv-r.had.co.nz/)
 and [R packages](http://r-pkgs.had.co.nz/).
 
 
+### Adopt the pipe operator
+
+When you adopt [Hadley](http://had.co.nz/)'s [dplyr](https://github.com/hadley/dplyr)
+and [tidyr](https://github.com/hadley/tidyr) tools, you'll want to
+also adopt the pipe operature `%>%`, from
+[magrittr](http://github.com/smbache/magrittr).
+
+You're old school, so you're used to writing
+[stuff like this](https://twitter.com/kwbroman/status/521127502391955456):
+
+```r
+x <- c(0.109, 0.359, 0.63, 0.996, 0.515, 0.142, 0.017, 0.829, 0.907)
+round(exp(diff(log(x))), 1)
+```
+
+Seems perfectly fine, but note how it's read from the inside out. With
+the pipe operator, you can do the same series of steps, written in the
+order that they're actually performed.
+
+```r
+library(magrittr)
+x %>% log %>%
+    diff %>%
+    exp %>%
+    round(1)
+```
+
+The pipe operator does some magic that makes the bit on the left be
+the first argument of the function call on the right.
+
+If you need the bit on the left of the pipe to be somewhere other than
+the first argument, you can use a period.  For example, here's a wacky way to
+get the log (base 2) of 5.
+
+```r
+2 %>% log(5, base=.)
+```
+
 ### Consider RStudio
 
 If you're still using the R GUI (for Windows or Mac), you should
