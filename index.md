@@ -47,7 +47,7 @@ and [R packages](http://r-pkgs.had.co.nz/).
 
 When you adopt [Hadley](http://had.co.nz/)'s [dplyr](https://github.com/hadley/dplyr)
 and [tidyr](https://github.com/hadley/tidyr) tools, you'll want to
-also adopt the pipe operature `%>%`, from
+also adopt the pipe operator `%>%`, from
 [magrittr](http://github.com/smbache/magrittr).
 
 You're old school, so you're used to writing
