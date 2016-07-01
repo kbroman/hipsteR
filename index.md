@@ -123,7 +123,7 @@ tools, like [shiny](http://www.rstudio.com/shiny/) and
 
 ### CRAN is huge, and there's also GitHub
 
-[CRAN](http://cran.r-project.org) has over 6000 packages, with lots of
+[CRAN](http://cran.r-project.org) has over 8000 packages, with lots of
 great stuff like
 [data.table](http://cran.r-project.org/web/packages/data.table),
 [magrittr](http://github.com/smbache/magrittr),
