@@ -26,26 +26,40 @@ or
 for writing simple reports. The markup is much simpler than LaTeX, and
 you don't have to worry about page breaks.
 
-### Learn [Hadley Wickham](http://had.co.nz/)'s packages
+### Learn [Hadley Wickham](http://hadley.nz)'s packages
 
-Start with [dplyr](https://github.com/hadley/dplyr), [tidyr](https://github.com/hadley/tidyr),
-[reshape2](https://github.com/hadley/reshape), and
+Start with [dplyr](http://dplyr.tidyverse.org/), [tidyr](http://tidyr.tidyverse.org/),
+[purrr](http://purrr.tidyverse.org/), and
 [ggplot2](http://ggplot2.org/).
 
-Also [devtools](https://github.com/hadley/devtools),
-[roxygen2](https://github.com/klutometis/roxygen), and
-[testthat](https://github.com/hadley/testthat).
+These are the main packages for what's now called the
+"[tidyverse](https://www.tidyverse.org/)", which has grown beyond
+Hadley. Also check out
 
-Also [lubridate](https://github.com/hadley/lubridate) and
-[stringr](https://github.com/hadley/stringr).
+- [lubridate](http://lubridate.tidyverse.org/) for handing dates
+- [stringr](http://stringr.tidyverse.org/) for handling strings
+- [forcats](http://forcats.tidyverse.org/) for handling factors
+- [broom](https://github.com/tidyverse/broom) for tidying statistical
+  analysis objects
+- [janitor](https://github.com/sfirke/janitor) for examining and
+  cleaning dirty data
+- [readr](http://readr.tidyverse.org/) for reading csv/tsv files
+- [readxl](http://readxl.tidyverse.org/) for reading Excel files
 
-Also, read his two new books: [Advanced R](http://adv-r.had.co.nz/)
-and [R packages](http://r-pkgs.had.co.nz/).
+For R package development, check out [devtools](https://github.com/hadley/devtools),
+[roxygen2](https://github.com/klutometis/roxygen),
+[testthat](https://github.com/hadley/testthat),
+and [assertthat](https://github.com/hadley/assertthat).
+
+Also, read his books: [Advanced R](http://adv-r.had.co.nz/),
+[R packages](http://r-pkgs.had.co.nz/),
+[R for Data Science](http://r4ds.had.co.nz/),
+and [ggplot2 (2nd edition)](http://ggplot2.org/book/).
 
 
 ### Adopt the pipe operator
 
-When you adopt [Hadley](http://had.co.nz/)'s [dplyr](https://github.com/hadley/dplyr)
+When you adopt [Hadley](http://hadley.nz)'s [dplyr](https://github.com/hadley/dplyr)
 and [tidyr](https://github.com/hadley/tidyr) tools, you'll want to
 also adopt the pipe operator `%>%`, from
 [magrittr](http://github.com/smbache/magrittr).
@@ -93,6 +107,9 @@ x %>% log() %>%
     exp() %>%
     round(1)
 ```
+
+
+
 
 ### Consider RStudio
 
