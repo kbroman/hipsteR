@@ -39,12 +39,10 @@ Hadley. Also check out
 - [lubridate](http://lubridate.tidyverse.org/) for handing dates
 - [stringr](http://stringr.tidyverse.org/) for handling strings
 - [forcats](http://forcats.tidyverse.org/) for handling factors
-- [broom](https://github.com/tidyverse/broom) for tidying statistical
-  analysis objects
-- [janitor](https://github.com/sfirke/janitor) for examining and
-  cleaning dirty data
 - [readr](http://readr.tidyverse.org/) for reading csv/tsv files
 - [readxl](http://readxl.tidyverse.org/) for reading Excel files
+- [broom](https://github.com/tidyverse/broom) for tidying statistical
+analysis objects
 
 For R package development, check out [devtools](https://github.com/hadley/devtools),
 [roxygen2](https://github.com/klutometis/roxygen),
@@ -55,6 +53,7 @@ Also, read his books: [Advanced R](http://adv-r.had.co.nz/),
 [R packages](http://r-pkgs.had.co.nz/),
 [R for Data Science](http://r4ds.had.co.nz/),
 and [ggplot2 (2nd edition)](http://ggplot2.org/book/).
+
 
 
 ### Adopt the pipe operator
