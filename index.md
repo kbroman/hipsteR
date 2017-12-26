@@ -266,10 +266,10 @@ The source for this tutorial is
 
 I would be glad for suggestions, corrections, or additions.
 
-Also see my
-[git/github guide](http://kbroman.org/github_tutorial),
-[knitr in a knutshell tutorial](http://kbroman.org/knitr_knutshell),
-[minimal make tutorial](http://kbroman.org/minimal_make),
+Also see my tutorials on
+[git/github](http://kbroman.org/github_tutorial),
+[knitr](http://kbroman.org/knitr_knutshell),
+[make](http://kbroman.org/minimal_make),
 [R packages](http://kbroman.org/pkg_primer),
 [data organization](http://kbroman.org/dataorg),
 and [initial steps towards reproducible research](http://kbroman.org/steps2rr).
