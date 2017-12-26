@@ -5,7 +5,7 @@ tagline: re-educating people who learned R before it was cool
 description: brief description of newer R-related developments
 ---
 
-I was an early adopter of [R](http://www.r-project.org), having first
+I was an early adopter of [R](https://www.r-project.org), having first
 learned S (yay!) and then S-plus (yuck!). But at times my knowledge of
 R seems stuck in 2001. I keep finding out about &ldquo;new&rdquo; R
 functions (like `replicate`, which was new in _2003_).
@@ -61,7 +61,7 @@ and [ggplot2 (2nd edition)](http://ggplot2.org/book/).
 When you adopt [Hadley](http://hadley.nz)'s [dplyr](https://github.com/hadley/dplyr)
 and [tidyr](https://github.com/hadley/tidyr) tools, you'll want to
 also adopt the pipe operator `%>%`, from
-[magrittr](http://github.com/smbache/magrittr).
+[magrittr](https://github.com/smbache/magrittr).
 
 You're old school, so you're used to writing
 [stuff like this](https://twitter.com/kwbroman/status/521127502391955456):
@@ -113,56 +113,54 @@ x %>% log() %>%
 ### Consider RStudio
 
 If you're still using the R GUI (for Windows or Mac), you should
-switch to [RStudio](http://www.rstudio.com/ide/download/desktop).
+switch to [RStudio](https://www.rstudio.com/products/rstudio/download/#download).
 Everything about it is better.
 
-Personally, I stick with [Emacs](http://www.gnu.org/software/emacs/) +
-[ESS](http://ess.r-project.org/), because I'm writing code in multiple
+Personally, I stick with [Emacs](https://www.gnu.org/software/emacs/) +
+[ESS](https://ess.r-project.org/), because I'm writing code in multiple
 languages (not just R). (Another IDE option for R that many recommend:
-[Eclipse](http://www.eclipse.org/eclipse/) with
+[Eclipse](https://www.eclipse.org/eclipse/) with
 [StatET](http://www.walware.de/goto/statet).)
 
 But I use RStudio for teaching: for demonstrations, and I have the
 students use it; it's the best environment for learning R.
 
 And note that RStudio makes it easy to
-[use knitr with Markdown](http://www.rstudio.com/ide/docs/authoring/using_markdown),
+[use knitr with Markdown](http://rmarkdown.rstudio.com/),
 and to
-[develop R Packages](http://www.rstudio.com/ide/docs/packages/overview).
+[develop R Packages](https://support.rstudio.com/hc/en-us/articles/200486488-Developing-Packages-with-RStudio).
 And RStudio also has some
-[nice debugging features](http://www.rstudio.com/ide/docs/debugging/overview),
+[nice debugging features](https://support.rstudio.com/hc/en-us/articles/205612627-Debugging-with-RStudio),
 like the ability to set breakpoints.
 
-[RStudio](http://rstudio.com), the company, produces a number of other great
-tools, like [shiny](http://www.rstudio.com/shiny/) and
-[ggvis](https://github.com/rstudio/ggvis).
+[RStudio](https://rstudio.com), the company, produces a number of other great
+tools, like [shiny](https://shiny.rstudio.com).
 
 ### CRAN is huge, and there's also GitHub
 
-[CRAN](http://cran.r-project.org) has over 8000 packages, with lots of
+[CRAN](https://cran.r-project.org) has over 8000 packages, with lots of
 great stuff like
-[data.table](http://cran.r-project.org/web/packages/data.table),
-[magrittr](http://github.com/smbache/magrittr),
-[RSQLite](http://cran.r-project.org/web/packages/RSQLite),
-[XML](http://cran.r-project.org/web/packages/XML),
-[rCharts](http://rcharts.io/),
+[data.table](https://cran.r-project.org/package=data.table),
+[magrittr](https://github.com/smbache/magrittr),
+[RSQLite](https://cran.r-project.org/package=RSQLite),
+[XML](https://cran.r-project.org/package=XML),
 [animation](http://yihui.name/animation/), and
 [slidify](http://slidify.org/).
 
-And there are even more packages that live on [GitHub](http://github.com) (solely, or in
+And there are even more packages that live on [GitHub](https://github.com) (solely, or in
 addition to CRAN), and with the `install_github()` function in the
 [devtools](https://github.com/hadley/devtools) package, you can skip
 CRAN and install packages straight from GitHub. devtools also has an
 `install_bitbucket()` for installing from
-[BitBucket](http://bitbucket.org).
+[BitBucket](https://bitbucket.org).
 
-I'd better mention [Bioconductor](http://bioconductor.org/); oodles of
+I'd better mention [Bioconductor](https://bioconductor.org/); oodles of
 bioinformatics/genomics-related packages live there rather than CRAN.
 
 And while I'm talking packages, I should mention
-[ROpenSci](http://ropensci.org/), an effort to create packages to
+[ROpenSci](https://ropensci.org/), an effort to create packages to
 access all kinds of data repositories from R. Take a look at
-[their list](http://ropensci.org/packages/).
+[their list](https://ropensci.org/packages/).
 
 
 ### You _can_ put underscores in names
@@ -180,11 +178,11 @@ now we can have functions named like `calc_genoprob`.
 ### Read about new features
 
 Read about new features in R
-[here](http://cran.r-project.org/src/base/NEWS).
+[here](https://cran.r-project.org/src/base/NEWS).
 
 Also look at
-[what was new in older versions](http://cran.r-project.org/src/base/NEWS.2)
-and [even older versions](http://cran.r-project.org/src/base/NEWS.1).
+[what was new in older versions](https://cran.r-project.org/src/base/NEWS.2)
+and [even older versions](https://cran.r-project.org/src/base/NEWS.1).
 
 ### New apply-type functions
 
@@ -200,10 +198,10 @@ For truly modern functional programming in R, check out the
 Look at the
 [parallel package](http://stat.ethz.ch/R-manual/R-devel/library/parallel/doc/parallel.pdf),
 and perhaps read the
-[Parallel R book](http://www.amazon.com/exec/obidos/ASIN/1449309925/7210-20).
+[Parallel R book](https://www.amazon.com/exec/obidos/ASIN/1449309925/7210-20).
 
 Also look at [Rcpp](http://adv-r.had.co.nz/Rcpp.html), a simpler way
-to call C/C++ functions from R. Read the [Rcpp book](http://www.amazon.com/exec/obidos/ASIN/1461468671/7210-20).
+to call C/C++ functions from R. Read the [Rcpp book](https://www.amazon.com/exec/obidos/ASIN/1461468671/7210-20).
 
 ### Various
 
@@ -264,7 +262,7 @@ over `replicate`, as you get to define the return structure.)
 ---
 
 The source for this tutorial is
-[on github](http://github.com/kbroman/hipsteR).
+[on github](https://github.com/kbroman/hipsteR).
 
 I would be glad for suggestions, corrections, or additions.
 
