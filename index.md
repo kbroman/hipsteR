@@ -15,14 +15,14 @@ This is a tutorial for people like me, or people who were taught by people like 
 ### Switch to knitr
 
 If you use [Sweave](http://leisch.userweb.mwn.de/Sweave/), it's time
-you switched to [knitr](http://yihui.name/knitr/). You'll find that
+you switched to [knitr](https://yihui.name/knitr/). You'll find that
 the transition is easy.
 
 A number of Sweave annoyances have been eliminated, but most
 importantly you can use knitr
-[with R Markdown](http://kbroman.org/knitr_knutshell/pages/Rmarkdown.html)
+[with R Markdown](https://kbroman.org/knitr_knutshell/pages/Rmarkdown.html)
 or
-[with AsciiDoc](http://kbroman.org/knitr_knutshell/pages/asciidoc.html)
+[with AsciiDoc](https://kbroman.org/knitr_knutshell/pages/asciidoc.html)
 for writing simple reports. The markup is much simpler than LaTeX, and
 you don't have to worry about page breaks.
 
@@ -30,7 +30,7 @@ you don't have to worry about page breaks.
 
 Start with [dplyr](http://dplyr.tidyverse.org/), [tidyr](http://tidyr.tidyverse.org/),
 [purrr](http://purrr.tidyverse.org/), and
-[ggplot2](http://ggplot2.org/).
+[ggplot2](http://ggplot2.tidyverse.org/).
 
 These are the main packages for what's now called the
 "[tidyverse](https://www.tidyverse.org/)", which has grown beyond
@@ -41,7 +41,7 @@ Hadley. Also check out
 - [forcats](http://forcats.tidyverse.org/) for handling factors
 - [readr](http://readr.tidyverse.org/) for reading csv/tsv files
 - [readxl](http://readxl.tidyverse.org/) for reading Excel files
-- [broom](https://github.com/tidyverse/broom) for tidying statistical
+- [broom](https://broom.tidyverse.org) for tidying statistical
 analysis objects
 
 For R package development, check out [devtools](https://github.com/hadley/devtools),
@@ -126,7 +126,7 @@ But I use RStudio for teaching: for demonstrations, and I have the
 students use it; it's the best environment for learning R.
 
 And note that RStudio makes it easy to
-[use knitr with Markdown](http://rmarkdown.rstudio.com/),
+[use knitr with Markdown](https://rmarkdown.rstudio.com/),
 and to
 [develop R Packages](https://support.rstudio.com/hc/en-us/articles/200486488-Developing-Packages-with-RStudio).
 And RStudio also has some
@@ -144,7 +144,7 @@ great stuff like
 [magrittr](https://github.com/smbache/magrittr),
 [RSQLite](https://cran.r-project.org/package=RSQLite),
 [XML](https://cran.r-project.org/package=XML),
-[animation](http://yihui.name/animation/), and
+[animation](https://yihui.name/animation/), and
 [slidify](http://slidify.org/).
 
 And there are even more packages that live on [GitHub](https://github.com) (solely, or in
@@ -191,12 +191,12 @@ did you know about `vapply` and `mapply`? And how about `replicate`?
 
 For truly modern functional programming in R, check out the
 [purrr](http://purrr.tidyverse.org) package (part of the
-[tidyverse](http://tidyverse.org)).
+[tidyverse](https://www.tidyverse.org)).
 
 ### Parallel and Rcpp
 
 Look at the
-[parallel package](http://stat.ethz.ch/R-manual/R-devel/library/parallel/doc/parallel.pdf),
+[parallel package](https://stat.ethz.ch/R-manual/R-devel/library/parallel/doc/parallel.pdf),
 and perhaps read the
 [Parallel R book](https://www.amazon.com/exec/obidos/ASIN/1449309925/7210-20).
 
@@ -213,7 +213,7 @@ not entirely recommended. For example,
 [rickyars](https://github.com/rickyars)
 [noted](https://github.com/kbroman/hipsteR/issues/4) that `inner_join` and
 `left_join` in [dplyr](https://github.com/hadley/dplyr) can be 10&times;
-faster than `merge`. [Ben Bolker](http://en.gravatar.com/bbolker) [recommends](http://kbroman.wordpress.com/2014/05/15/hipster-re-educating-people-who-learned-r-before-it-was-cool/#comment-3518) the `plyr::r*ply` functions
+faster than `merge`. [Ben Bolker](https://ms.mcmaster.ca/~bolker/) [recommends](https://kbroman.wordpress.com/2014/05/15/hipster-re-educating-people-who-learned-r-before-it-was-cool/#comment-3518) the `plyr::r*ply` functions
 over `replicate`, as you get to define the return structure.)
 
 [`Vectorize`](https://stat.ethz.ch/R-manual/R-devel/library/base/html/Vectorize.html)
@@ -267,9 +267,9 @@ The source for this tutorial is
 I would be glad for suggestions, corrections, or additions.
 
 Also see my tutorials on
-[git/github](http://kbroman.org/github_tutorial),
-[knitr](http://kbroman.org/knitr_knutshell),
-[make](http://kbroman.org/minimal_make),
-[R packages](http://kbroman.org/pkg_primer),
-[data organization](http://kbroman.org/dataorg),
-and [initial steps towards reproducible research](http://kbroman.org/steps2rr).
+[git/github](https://kbroman.org/github_tutorial),
+[knitr](https://kbroman.org/knitr_knutshell),
+[make](https://kbroman.org/minimal_make),
+[R packages](https://kbroman.org/pkg_primer),
+[data organization](https://kbroman.org/dataorg),
+and [initial steps towards reproducible research](https://kbroman.org/steps2rr).
