@@ -178,11 +178,12 @@ now we can have functions named like `calc_genoprob`.
 ### Read about new features
 
 Read about new features in R
-[here](https://cran.r-project.org/src/base/NEWS).
+[here](https://cran.r-project.org/doc/manuals/r-release/NEWS.html).
 
 Also look at
-[what was new in older versions](https://cran.r-project.org/src/base/NEWS.2)
-and [even older versions](https://cran.r-project.org/src/base/NEWS.1).
+[what was new in older versions](https://cran.r-project.org/src/base/NEWS.3)
+and [even older versions](https://cran.r-project.org/src/base/NEWS.2)
+and [yet older versions](https://cran.r-project.org/src/base/NEWS.1)
 
 ### New apply-type functions
 
@@ -205,7 +206,7 @@ to call C/C++ functions from R. Read the [Rcpp book](https://www.amazon.com/exec
 
 ### Various
 
-I searched through the `NEWS` files (mentioned above) and
+I searched through the `[NEWS](https://cran.r-project.org/src/base/NEWS)` files (mentioned above) and
 wrote down some of the functions that were new since 2002.
 
 (Note that I have little experience with many of these, and some are
