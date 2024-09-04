@@ -14,7 +14,7 @@ This is a tutorial for people like me, or people who were taught by people like 
 
 ### Switch to knitr
 
-If you use [Sweave](http://leisch.userweb.mwn.de/Sweave/), it's time
+If you use [Sweave](https://stat.ethz.ch/R-manual/R-devel/library/utils/doc/Sweave.pdf), it's time
 you switched to [knitr](https://yihui.name/knitr/). You'll find that
 the transition is easy.
 
