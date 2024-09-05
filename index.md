@@ -26,7 +26,7 @@ or
 for writing simple reports. The markup is much simpler than LaTeX, and
 you don't have to worry about page breaks.
 
-### Learn [Hadley Wickham](http://hadley.nz)'s packages
+### Learn [Hadley Wickham](https://hadley.nz)'s packages
 
 Start with [dplyr](http://dplyr.tidyverse.org/), [tidyr](http://tidyr.tidyverse.org/),
 [purrr](http://purrr.tidyverse.org/), and
