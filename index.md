@@ -28,7 +28,7 @@ you don't have to worry about page breaks.
 
 ### Learn [Hadley Wickham](https://hadley.nz)'s packages
 
-Start with [dplyr](https://dplyr.tidyverse.org/), [tidyr](http://tidyr.tidyverse.org/),
+Start with [dplyr](https://dplyr.tidyverse.org/), [tidyr](https://tidyr.tidyverse.org/),
 [purrr](http://purrr.tidyverse.org/), and
 [ggplot2](http://ggplot2.tidyverse.org/).
 
