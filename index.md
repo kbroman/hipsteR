@@ -30,7 +30,7 @@ you don't have to worry about page breaks.
 
 Start with [dplyr](https://dplyr.tidyverse.org/), [tidyr](https://tidyr.tidyverse.org/),
 [purrr](https://purrr.tidyverse.org/), and
-[ggplot2](http://ggplot2.tidyverse.org/).
+[ggplot2](https://ggplot2.tidyverse.org/).
 
 These are the main packages for what's now called the
 "[tidyverse](https://www.tidyverse.org/)", which has grown beyond
