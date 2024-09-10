@@ -36,7 +36,7 @@ These are the main packages for what's now called the
 "[tidyverse](https://www.tidyverse.org/)", which has grown beyond
 Hadley. Also check out
 
-- [lubridate](http://lubridate.tidyverse.org/) for handing dates
+- [lubridate](https://lubridate.tidyverse.org/) for handing dates
 - [stringr](http://stringr.tidyverse.org/) for handling strings
 - [forcats](http://forcats.tidyverse.org/) for handling factors
 - [readr](http://readr.tidyverse.org/) for reading csv/tsv files
