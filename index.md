@@ -37,7 +37,7 @@ These are the main packages for what's now called the
 Hadley. Also check out
 
 - [lubridate](https://lubridate.tidyverse.org/) for handing dates
-- [stringr](http://stringr.tidyverse.org/) for handling strings
+- [stringr](https://stringr.tidyverse.org/) for handling strings
 - [forcats](http://forcats.tidyverse.org/) for handling factors
 - [readr](http://readr.tidyverse.org/) for reading csv/tsv files
 - [readxl](http://readxl.tidyverse.org/) for reading Excel files
