@@ -39,7 +39,7 @@ Hadley. Also check out
 - [lubridate](https://lubridate.tidyverse.org/) for handing dates
 - [stringr](https://stringr.tidyverse.org/) for handling strings
 - [forcats](https://forcats.tidyverse.org/) for handling factors
-- [readr](http://readr.tidyverse.org/) for reading csv/tsv files
+- [readr](https://readr.tidyverse.org/) for reading csv/tsv files
 - [readxl](http://readxl.tidyverse.org/) for reading Excel files
 - [broom](https://broom.tidyverse.org) for tidying statistical
 analysis objects
