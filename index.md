@@ -40,7 +40,7 @@ Hadley. Also check out
 - [stringr](https://stringr.tidyverse.org/) for handling strings
 - [forcats](https://forcats.tidyverse.org/) for handling factors
 - [readr](https://readr.tidyverse.org/) for reading csv/tsv files
-- [readxl](http://readxl.tidyverse.org/) for reading Excel files
+- [readxl](https://readxl.tidyverse.org/) for reading Excel files
 - [broom](https://broom.tidyverse.org) for tidying statistical
 analysis objects
 
