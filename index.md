@@ -49,7 +49,7 @@ For R package development, check out [devtools](https://github.com/hadley/devtoo
 [testthat](https://github.com/hadley/testthat),
 and [assertthat](https://github.com/hadley/assertthat).
 
-Also, read his books: [Advanced R](http://adv-r.had.co.nz/),
+Also, read his books: [Advanced R](https://adv-r.hadley.nz/),
 [R packages](http://r-pkgs.had.co.nz/),
 [R for Data Science](http://r4ds.had.co.nz/),
 and [ggplot2 (2nd edition)](http://ggplot2.org/book/).
