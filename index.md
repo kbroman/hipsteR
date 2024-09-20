@@ -51,7 +51,7 @@ and [assertthat](https://github.com/hadley/assertthat).
 
 Also, read his books: [Advanced R](https://adv-r.hadley.nz/),
 [R packages](https://r-pkgs.org),
-[R for Data Science](http://r4ds.had.co.nz/),
+[R for Data Science](https://r4ds.hadley.nz/),
 and [ggplot2 (2nd edition)](http://ggplot2.org/book/).
 
 
