@@ -58,7 +58,7 @@ and [ggplot2 (2nd edition)](https://ggplot2-book.org).
 
 ### Adopt the pipe operator
 
-When you adopt [Hadley](http://hadley.nz)'s [dplyr](https://github.com/hadley/dplyr)
+When you adopt [Hadley](https://hadley.nz)'s [dplyr](https://github.com/hadley/dplyr)
 and [tidyr](https://github.com/hadley/tidyr) tools, you'll want to
 also adopt the pipe operator `%>%`, from
 [magrittr](https://github.com/smbache/magrittr).
