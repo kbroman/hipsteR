@@ -145,7 +145,7 @@ great stuff like
 [RSQLite](https://cran.r-project.org/package=RSQLite),
 [XML](https://cran.r-project.org/package=XML),
 [animation](https://yihui.name/animation/), and
-[slidify](http://slidify.org/).
+[slidify](https://slidify.github.io/).
 
 And there are even more packages that live on [GitHub](https://github.com) (solely, or in
 addition to CRAN), and with the `install_github()` function in the
