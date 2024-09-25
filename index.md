@@ -191,7 +191,7 @@ You probably know about `apply`, `lapply`, `sapply`, and `tapply`. But
 did you know about `vapply` and `mapply`? And how about `replicate`?
 
 For truly modern functional programming in R, check out the
-[purrr](http://purrr.tidyverse.org) package (part of the
+[purrr](https://purrr.tidyverse.org) package (part of the
 [tidyverse](https://www.tidyverse.org)).
 
 ### Parallel and Rcpp
