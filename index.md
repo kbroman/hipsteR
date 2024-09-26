@@ -201,7 +201,7 @@ Look at the
 and perhaps read the
 [Parallel R book](https://www.amazon.com/exec/obidos/ASIN/1449309925/7210-20).
 
-Also look at [Rcpp](http://adv-r.had.co.nz/Rcpp.html), a simpler way
+Also look at [Rcpp](https://adv-r.hadley.nz/Rcpp.html), a simpler way
 to call C/C++ functions from R. Read the [Rcpp book](https://www.amazon.com/exec/obidos/ASIN/1461468671/7210-20).
 
 ### Various
