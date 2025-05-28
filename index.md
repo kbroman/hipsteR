@@ -206,7 +206,7 @@ to call C/C++ functions from R. Read the [Rcpp book](https://www.amazon.com/exec
 
 ### Various
 
-I searched through the `[NEWS](https://cran.r-project.org/src/base/NEWS)` files (mentioned above) and
+I searched through the [`NEWS`](https://cran.r-project.org/src/base/NEWS) files (mentioned above) and
 wrote down some of the functions that were new since 2002.
 
 (Note that I have little experience with many of these, and some are
